@@ -91,7 +91,6 @@ async function deleteFriend(id) {
     }
 }
 
-
 module.exports = {
     addFriend,
     getFriends,
